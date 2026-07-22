@@ -1,0 +1,8 @@
+# Core HTTP client for Facebook Graph API and AI calls
+requests
+
+# Google Cloud Vision client (OCR per immagini e video)
+google-cloud-vision
+
+# Estrazione frame dai video (usa opencv-python-headless se sei in ambiente server)
+opencv-python
